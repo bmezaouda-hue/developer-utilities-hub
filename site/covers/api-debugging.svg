@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5c2a3b"/><stop offset="100%" stop-color="#04110d"/>
+    </linearGradient>
+    <pattern id="p" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <rect width="1600" height="900" fill="url(#p)"/>
+  <circle cx="1330" cy="180" r="260" fill="#fb7185" fill-opacity="0.14"/>
+  <circle cx="240" cy="760" r="200" fill="#fb7185" fill-opacity="0.10"/>
+  <g font-family="Cascadia Code, Consolas, monospace" fill="#ffffff">
+    <text x="110" y="500" font-size="250" font-weight="700" fill-opacity="0.14">404</text>
+    <text x="110" y="180" font-size="34" font-weight="700" fill="#fb7185" letter-spacing="6">API</text>
+    <text x="110" y="640" font-size="92" font-weight="700">DVLPR Tools</text>
+    <text x="110" y="700" font-size="30" font-weight="500" fill-opacity="0.7" letter-spacing="4">DEBUGGING</text>
+  </g>
+</svg>
