@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://dvlpr-tools.netlify.app/
+Sitemap: https://dvlpr-tools.netlify.app/sitemap.xml
