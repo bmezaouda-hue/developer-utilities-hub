@@ -1,6 +1,6 @@
 User-Agent: *
 Allow: /
 Disallow: /api/
+Disallow: /admin
 
-Host: https://dvlpr-tools.netlify.app/
-Sitemap: https://dvlpr-tools.netlify.app/sitemap.xml
+Sitemap: https://dvlprotools.site/sitemap.xml
